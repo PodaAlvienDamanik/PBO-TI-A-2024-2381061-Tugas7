@@ -18,11 +18,11 @@ public class Mobil {
     }
 
     public void berhenti(){
-        System.out.println("Mobil " + merek + "Berhenti");
+        System.out.println("Mobil " + merek + " Berhenti");
     }
 
     public void berjalan(){
-        System.out.println("Mobil" + merek + "Berjalan");
+        System.out.println("Mobil" + merek + " Berjalan");
     }
 
 
